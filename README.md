@@ -1,5 +1,5 @@
 # Basic_Packet_Sniffer
-This is a basic packet sniffer which will capture different type of packets
+This is a basic python based packet sniffer which will capture different type of packets
 
 For running the code successfully you need to have this libraries installed in your system:
 
